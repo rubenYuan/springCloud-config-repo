@@ -2,19 +2,3 @@
 info:
   description: Spring Cloud Samples--daoyuan.xiong
   url: https://github.com/spring-cloud-samples
-spring:
-  rabbitmq:
-    host: host
-    username: guest
-    password: guest
-  cloud:
-    bus:
-      trace:
-        enabled: true
-  boot:
-    admin:
-      username: admin
-      password: 123456
-management:
-  security:
-    enabled: false
